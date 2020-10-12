@@ -4,37 +4,36 @@ Output file: dusk.bsp
 
 ---- LoadMapFile ----
 *** WARNING 06: No info_player_deathmatch entities in level
-         1590 faces
+         1592 faces
           261 brushes
            10 entities
             5 unique texnames
-         1020 texinfo
+         1026 texinfo
 
 Opened WAD: C:/Users/Eric/Documents/GitHub/Dusk-MyQuakeMap/wads/prototype_1_2.wad
 Processing hull 0...
 ---- Brush_LoadEntity ----
           261 brushes
-          517 planes
+          524 planes
 ---- CSGFaces ----
-         1590 brushfaces
-         3454 csgfaces
-         3270 mergedfaces
+         1592 brushfaces
+         3681 csgfaces
+         3328 mergedfaces
 ---- SolidBSP ----
-         7242 split nodes
-         2890 solid leafs
-         4273 empty leafs
-           80 water leafs
+         7537 split nodes
+         3015 solid leafs
+         4446 empty leafs
+           77 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-        14889 leaffaces
-        13512 nodefaces
+        16556 leaffaces
+        14738 nodefaces
 ---- Portalize ----
-*** WARNING 12: New portal was clipped away in CutNodePortals_r near (103.553 608.417 206.000)
-         4353 vis leafs
-         4353 vis clusters
-        13798 vis portals
+         4523 vis leafs
+         4523 vis clusters
+        13304 vis portals
 ---- FillOutside ----
 *** WARNING 10: Reached occupant at (496 48 160), no filling performed.
 Leak file written to dusk.pts
@@ -43,23 +42,24 @@ Leak file written to dusk.pts
 Processing hull 1...
 *** WARNING 19: No entities in empty space -- no filling performed (hull 1)
 Processing hull 2...
+*** WARNING 12: New portal was clipped away in CutNodePortals_r near (163.300 289.215 368.000)
 *** WARNING 19: No entities in empty space -- no filling performed (hull 2)
 ---- WriteBSPFile ----
 Wrote dusk.bsp
-         1562 planes            31240
-        15548 vertexes         186576
-         7242 nodes            173808
-          919 texinfo           36760
-        13512 faces            270240
-        10619 clipnodes         84952
-         4354 leafs            121912
-        14889 marksurfaces      29778
-        54014 surfedges        216056
-        32692 edges            130768
+         1526 planes            30520
+        16494 vertexes         197928
+         7537 nodes            180888
+          928 texinfo           37120
+        14738 faces            294760
+        10536 clipnodes         84288
+         4524 leafs            126672
+        16556 marksurfaces      33112
+        58907 surfedges        235628
+        34764 edges            139056
             5 textures          92704
               lightdata             0
               visdata               0
               entdata             166
 
-0.654 seconds elapsed
-Peak memory usage: 55364394 (52.8M)
+0.672 seconds elapsed
+Peak memory usage: 57866492 (55.2M)
