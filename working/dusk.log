@@ -5,7 +5,7 @@ Output file: dusk.bsp
 ---- LoadMapFile ----
          1596 faces
           261 brushes
-            7 entities
+           13 entities
             6 unique texnames
          1030 texinfo
 
@@ -16,25 +16,25 @@ Processing hull 0...
           549 planes
 ---- CSGFaces ----
          1596 brushfaces
-         3775 csgfaces
-         3396 mergedfaces
+         3783 csgfaces
+         3398 mergedfaces
 ---- SolidBSP ----
-         7593 split nodes
-         3285 solid leafs
-         4232 empty leafs
+         7602 split nodes
+         3289 solid leafs
+         4237 empty leafs
            77 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-        14667 leaffaces
-        13137 nodefaces
+        14657 leaffaces
+        13127 nodefaces
 ---- Portalize ----
-         4309 vis leafs
-         4309 vis clusters
-        12752 vis portals
+         4314 vis leafs
+         4314 vis clusters
+        12761 vis portals
 ---- FillOutside ----
-*** WARNING 10: Reached occupant at (570 -16 168), no filling performed.
+*** WARNING 10: Reached occupant at (-400 384 368), no filling performed.
 Leak file written to dusk.pts
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
@@ -43,19 +43,19 @@ Processing hull 2...
 ---- WriteBSPFile ----
 Wrote dusk.bsp
          1241 planes            24820
-        15371 vertexes         184452
-         7593 nodes            182232
+        15365 vertexes         184380
+         7602 nodes            182448
           923 texinfo           36920
-        13137 faces            262740
-         4040 clipnodes         32320
-         4310 leafs            120680
-        14667 marksurfaces      29334
-        52458 surfedges        209832
-        32498 edges            129992
+        13127 faces            262540
+         4005 clipnodes         32040
+         4315 leafs            120820
+        14657 marksurfaces      29314
+        52417 surfedges        209668
+        32484 edges            129936
             6 textures         114508
               lightdata             0
               visdata               0
-              entdata             397
+              entdata             882
 
-0.710 seconds elapsed
-Peak memory usage: 52784878 (50.3M)
+0.749 seconds elapsed
+Peak memory usage: 52781850 (50.3M)

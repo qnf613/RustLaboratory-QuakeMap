@@ -2164,7 +2164,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Spawn"
-"_tb_id" "8"
+"_tb_id" "1"
 // brush 0
 {
 ( 234.5 5 232 ) ( 234.5 5 224 ) ( 234.5 109 224 ) 128_brown_2 3 80 0 1 1
@@ -2409,7 +2409,7 @@
 // entity 5
 {
 "classname" "info_player_start"
-"origin" "551 17 152"
+"origin" "551 17 160"
 "angle" "180"
 }
 // entity 6
@@ -2452,4 +2452,10 @@
 {
 "classname" "item_rockets"
 "origin" "-43 -10 32"
+}
+// entity 13
+{
+"classname" "info_player_deathmatch"
+"origin" "550 16 160"
+"angle" "180"
 }
