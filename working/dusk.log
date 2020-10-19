@@ -5,10 +5,11 @@ Output file: dusk.bsp
 ---- LoadMapFile ----
          1596 faces
           261 brushes
-           13 entities
+           14 entities
             6 unique texnames
          1030 texinfo
 
+Opened WAD: C:/Users/Eric/Documents/GitHub/Dusk-MyQuakeMap/wads/START.WAD
 Opened WAD: C:/Users/Eric/Documents/GitHub/Dusk-MyQuakeMap/wads/prototype_1_2.wad
 Processing hull 0...
 ---- Brush_LoadEntity ----
@@ -52,10 +53,10 @@ Wrote dusk.bsp
         14657 marksurfaces      29314
         52417 surfedges        209668
         32484 edges            129936
-            6 textures         114508
+            6 textures          83212
               lightdata             0
               visdata               0
-              entdata             882
+              entdata            1036
 
-0.749 seconds elapsed
-Peak memory usage: 52781850 (50.3M)
+0.713 seconds elapsed
+Peak memory usage: 52787234 (50.3M)
