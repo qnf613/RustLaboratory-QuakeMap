@@ -1,0 +1,64 @@
+---- qbsp / ericw-tools v0.18.1 ----
+Input file: testMap.map
+Output file: testMap.bsp
+
+---- LoadMapFile ----
+*** WARNING 06: No info_player_deathmatch entities in level
+          582 faces
+           97 brushes
+            2 entities
+            5 unique texnames
+          189 texinfo
+
+Opened WAD: C:/Users/Eric/Documents/GitHub/RustyLaboratory-QuakeMap/wads/prototype_1_2.wad
+Processing hull 0...
+---- Brush_LoadEntity ----
+           97 brushes
+          213 planes
+---- CSGFaces ----
+          582 brushfaces
+          704 csgfaces
+          585 mergedfaces
+---- SolidBSP ----
+          807 split nodes
+          317 solid leafs
+          491 empty leafs
+            0 water leafs
+            0 detail leafs
+            0 detail illusionary leafs
+            0 detail fence leafs
+            0 illusionary visblocker leafs
+         1313 leaffaces
+         1239 nodefaces
+---- Portalize ----
+          491 vis leafs
+          491 vis clusters
+         1411 vis portals
+---- FillOutside ----
+*** WARNING 10: Reached occupant at (-420 -40 24), no filling performed.
+Leak file written to testMap.pts
+---- MakeFaceEdges ----
+---- GrowRegions ----
+Processing hull 1...
+*** WARNING 19: No entities in empty space -- no filling performed (hull 1)
+Processing hull 2...
+*** WARNING 19: No entities in empty space -- no filling performed (hull 2)
+---- WriteBSPFile ----
+Wrote testMap.bsp
+          422 planes             8440
+         1616 vertexes          19392
+          807 nodes             19368
+          180 texinfo            7200
+         1239 faces             24780
+         1466 clipnodes         11728
+          492 leafs             13776
+         1313 marksurfaces       2626
+         4956 surfedges         19824
+         3296 edges             13184
+            5 textures           7024
+              lightdata             0
+              visdata               0
+              entdata             189
+
+0.189 seconds elapsed
+Peak memory usage: 6971918 (6.6M)

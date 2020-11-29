@@ -1,6 +1,7 @@
 /trenchbroom/
 /source/
 /tools/
+/working/
 *.PAK
 *.dll
 *.zip

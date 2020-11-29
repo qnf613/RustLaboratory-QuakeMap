@@ -1,0 +1,64 @@
+---- qbsp / ericw-tools v0.18.1 ----
+Input file: RustyLabatory.map
+Output file: RustyLabatory.bsp
+
+---- LoadMapFile ----
+*** WARNING 06: No info_player_deathmatch entities in level
+         1159 faces
+          193 brushes
+           40 entities
+            4 unique texnames
+          298 texinfo
+
+Opened WAD: C:/Users/Eric/Documents/GitHub/RustyLaboratory-QuakeMap/wads/prototype_1_2.wad
+Processing hull 0...
+---- Brush_LoadEntity ----
+          193 brushes
+          254 planes
+---- CSGFaces ----
+         1159 brushfaces
+         1195 csgfaces
+         1182 mergedfaces
+---- SolidBSP ----
+         1193 split nodes
+          364 solid leafs
+          830 empty leafs
+            0 water leafs
+            0 detail leafs
+            0 detail illusionary leafs
+            0 detail fence leafs
+            0 illusionary visblocker leafs
+         2206 leaffaces
+         2128 nodefaces
+---- Portalize ----
+          830 vis leafs
+          830 vis clusters
+         2777 vis portals
+---- FillOutside ----
+*** WARNING 10: Reached occupant at (-16 -16 40), no filling performed.
+Leak file written to RustyLabatory.pts
+---- MakeFaceEdges ----
+---- GrowRegions ----
+Processing hull 1...
+*** WARNING 19: No entities in empty space -- no filling performed (hull 1)
+Processing hull 2...
+*** WARNING 19: No entities in empty space -- no filling performed (hull 2)
+---- WriteBSPFile ----
+Wrote RustyLabatory.bsp
+          526 planes            10520
+         2475 vertexes          29700
+         1193 nodes             28632
+          294 texinfo           11760
+         2128 faces             42560
+         2980 clipnodes         23840
+          831 leafs             23268
+         2206 marksurfaces       4412
+         8514 surfedges         34056
+         5020 edges             20080
+            4 textures           5620
+              lightdata             0
+              visdata               0
+              entdata             175
+
+0.233 seconds elapsed
+Peak memory usage: 14028120 (13.4M)
