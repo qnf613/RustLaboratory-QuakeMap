@@ -4,12 +4,37 @@ running with 12 threads
 LoadBSPFile: 'RustyLabatory.bsp'
 BSP is version 29
 --- LoadEntities ---
-2 entities read, 0 are lights.
+WARNING: brush entity with mins (89.00 -2251.00 -73.) maxs (103.00 -2245.00 -59) (func_button) has empty key/value "health" ""
+WARNING: brush entity with mins (1921.00 -1039.00 -3) maxs (1951.00 -945.00 95.) (func_door) has empty key/value "message" ""
+WARNING: brush entity with mins (1077.00 -1903.00 73) maxs (1091.00 -1897.00 87) (func_button) has empty key/value "health" ""
+WARNING: brush entity with mins (987.00 -1699.00 73.) maxs (1001.00 -1693.00 87) (func_button) has empty key/value "health" ""
+WARNING: brush entity with mins (987.00 -1699.00 73.) maxs (1001.00 -1693.00 87) (func_button) has empty key/value "targetname" ""
+WARNING: brush entity with mins (1007.00 -1699.00 73) maxs (1021.00 -1693.00 87) (func_button) has empty key/value "health" ""
+WARNING: brush entity with mins (1007.00 -1699.00 73) maxs (1021.00 -1693.00 87) (func_button) has empty key/value "targetname" ""
+WARNING: brush entity with mins (965.00 -1699.00 73.) maxs (979.00 -1693.00 87.) (func_button) has empty key/value "health" ""
+WARNING: brush entity with mins (881.00 -1095.00 11.) maxs (975.00 -1065.00 17.) (trigger_multiple) has empty key/value "health" ""
+WARNING: brush entity with mins (1958.00 -947.00 19.) maxs (1972.00 -941.00 33.) (func_button) has empty key/value "targetname" ""
+WARNING: brush entity with mins (63.00 -1451.00 -103) maxs (157.00 -1421.00 -97) (trigger_once) has empty key/value "health" ""
+WARNING: brush entity with mins (63.00 -1451.00 -103) maxs (157.00 -1421.00 -97) (trigger_once) has empty key/value "sounds" ""
+WARNING: brush entity with mins (1567.00 -317.00 -33) maxs (1661.00 -287.00 -27) (trigger_multiple) has empty key/value "health" ""
+WARNING: brush entity with mins (1187.00 -47.00 15.0) maxs (1217.00 47.00 21.00) (trigger_multiple) has empty key/value "health" ""
+WARNING: brush entity with mins (1435.00 224.00 210.) maxs (1445.00 290.00 336.) (func_door) has empty key/value "message" ""
+WARNING: brush entity with mins (1127.00 213.00 15.0) maxs (1201.00 307.00 25.0) (trigger_multiple) has empty key/value "health" ""
+WARNING: brush entity with mins (2169.00 339.00 241.) maxs (2175.00 353.00 255.) (func_button) has empty key/value "health" ""
+WARNING: brush entity with mins (2169.00 339.00 241.) maxs (2175.00 353.00 255.) (func_button) has empty key/value "targetname" ""
+WARNING: brush entity with mins (605.00 1031.00 15.0) maxs (699.00 1061.00 21.0) (trigger_multiple) has empty key/value "health" ""
+WARNING: brush entity with mins (571.00 1437.00 15.0) maxs (601.00 1531.00 21.0) (trigger_multiple) has empty key/value "health" ""
+WARNING: brush entity with mins (-149.00 397.00 15.0) maxs (-119.00 491.00 21.0) (trigger_multiple) has empty key/value "health" ""
+WARNING: brush entity with mins (-429.00 1025.00 65.) maxs (-415.00 1031.00 79.) (func_button) has empty key/value "health" ""
+WARNING: brush entity with mins (-429.00 1025.00 65.) maxs (-415.00 1031.00 79.) (func_button) has empty key/value "targetname" ""
+WARNING: brush entity with mins (332.00 365.00 67.00) maxs (346.00 371.00 81.00) (func_button) has empty key/value "targetname" ""
+WARNING: brush entity with mins (-84.00 1441.00 67.0) maxs (-70.00 1447.00 81.0) (func_button) has empty key/value "targetname" ""
+46 entities read, 0 are lights.
 --- OptionsSummary ---
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
 	0 sky faces
-	7064 solid faces
+	7070 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
 SetupLights: 0 initial lights
@@ -25,7 +50,7 @@ Lighting Completed.
 lightdatasize: 0
 0 switchable light styles (32 max)
 Writing RustyLabatory.bsp as BSP version 29
-0.310 seconds elapsed
+0.338 seconds elapsed
 
 stats:
 0.000000 lights tested, 0.000000 hits per sample point
