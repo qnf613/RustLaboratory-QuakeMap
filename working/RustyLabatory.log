@@ -3,61 +3,61 @@ Input file: RustyLabatory.map
 Output file: RustyLabatory.bsp
 
 ---- LoadMapFile ----
-         2819 faces
-          469 brushes
-           85 entities
-           12 unique texnames
-          811 texinfo
+         3153 faces
+          525 brushes
+          173 entities
+           16 unique texnames
+         1060 texinfo
 
 Opened WAD: C:/Users/Eric/Documents/GitHub/RustyLaboratory-QuakeMap/wads/prototype_1_2.wad
 Processing hull 0...
 ---- Brush_LoadEntity ----
-          429 brushes
-          575 planes
+          445 brushes
+          765 planes
 ---- CSGFaces ----
-         2579 brushfaces
-         3645 csgfaces
-         3006 mergedfaces
+         2679 brushfaces
+         4322 csgfaces
+         3572 mergedfaces
 ---- SolidBSP ----
-         3949 split nodes
-         1644 solid leafs
-         2303 empty leafs
-            3 water leafs
+         5283 split nodes
+         2218 solid leafs
+         3062 empty leafs
+            4 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         7580 leaffaces
-         7090 nodefaces
+         9201 leaffaces
+         8663 nodefaces
 ---- Portalize ----
-         2306 vis leafs
-         2306 vis clusters
-         6667 vis portals
+         3066 vis leafs
+         3066 vis clusters
+         8874 vis portals
 ---- FillOutside ----
-*** WARNING 10: Reached occupant at (18 -18 40), no filling performed.
+*** WARNING 10: Reached occupant at (106 -1966 -79), no filling performed.
 Leak file written to RustyLabatory.pts
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
 Processing hull 1...
-*** WARNING 10: Reached occupant at (-410 945 52), no filling performed.
+*** WARNING 10: Reached occupant at (-41 -24 52), no filling performed.
 Processing hull 2...
-*** WARNING 10: Reached occupant at (-410 945 52), no filling performed.
+*** WARNING 10: Reached occupant at (-41 -24 52), no filling performed.
 ---- WriteBSPFile ----
 Wrote RustyLabatory.bsp
-         1529 planes            30580
-         8928 vertexes         107136
-         4189 nodes            100536
-          778 texinfo           31120
-         7330 faces            146600
-         8661 clipnodes         69288
-         2547 leafs             71316
-         7820 marksurfaces      15640
-        29326 surfedges        117304
-        18855 edges             75420
-           14 textures          27820
+         2061 planes            41220
+        11174 vertexes         134088
+         5696 nodes            136704
+          964 texinfo           38560
+         9078 faces            181560
+        10700 clipnodes         85600
+         3479 leafs             97412
+         9616 marksurfaces      19232
+        36323 surfedges        145292
+        23456 edges             93824
+           18 textures          41596
               lightdata             0
               visdata               0
-              entdata            5613
+              entdata           14069
 
-0.542 seconds elapsed
-Peak memory usage: 38362496 (36.6M)
+0.637 seconds elapsed
+Peak memory usage: 46122220 (44.0M)
