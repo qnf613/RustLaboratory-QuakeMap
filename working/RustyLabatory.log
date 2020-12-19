@@ -3,61 +3,68 @@ Input file: RustyLabatory.map
 Output file: RustyLabatory.bsp
 
 ---- LoadMapFile ----
-         3153 faces
-          525 brushes
-          173 entities
-           16 unique texnames
-         1060 texinfo
+*** WARNING 06: No info_player_deathmatch entities in level
+         3301 faces
+          543 brushes
+          261 entities
+          118 unique texnames
+         1574 texinfo
 
+Opened WAD: C:/Users/Eric/Documents/GitHub/RustyLaboratory-QuakeMap/wads/hipnotic.wad
 Opened WAD: C:/Users/Eric/Documents/GitHub/RustyLaboratory-QuakeMap/wads/prototype_1_2.wad
+Opened WAD: C:/Users/Eric/Documents/GitHub/RustyLaboratory-QuakeMap/wads/Eric's_WAD.wad
 Processing hull 0...
 ---- Brush_LoadEntity ----
-          445 brushes
-          765 planes
+          463 brushes
+          937 planes
 ---- CSGFaces ----
-         2679 brushfaces
-         4322 csgfaces
-         3572 mergedfaces
+         2817 brushfaces
+         4428 csgfaces
+         3702 mergedfaces
 ---- SolidBSP ----
-         5283 split nodes
-         2218 solid leafs
-         3062 empty leafs
-            4 water leafs
+         5793 split nodes
+         2436 solid leafs
+         3352 empty leafs
+            6 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         9201 leaffaces
-         8663 nodefaces
+        10123 leaffaces
+         9522 nodefaces
 ---- Portalize ----
-         3066 vis leafs
-         3066 vis clusters
-         8874 vis portals
+         3358 vis leafs
+         3358 vis clusters
+         9833 vis portals
 ---- FillOutside ----
-*** WARNING 10: Reached occupant at (106 -1966 -79), no filling performed.
+*** WARNING 10: Reached occupant at (-43 -2185 39), no filling performed.
 Leak file written to RustyLabatory.pts
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
 Processing hull 1...
-*** WARNING 10: Reached occupant at (-41 -24 52), no filling performed.
+*** WARNING 12: New portal was clipped away in CutNodePortals_r near (1848.467 -1344.000 408.000)
+*** WARNING 12: New portal was clipped away in CutNodePortals_r near (1848.467 -1459.764 378.596)
+*** WARNING 10: Reached occupant at (-4 -14 41), no filling performed.
 Processing hull 2...
-*** WARNING 10: Reached occupant at (-41 -24 52), no filling performed.
+*** WARNING 12: New portal was clipped away in CutNodePortals_r near (1864.467 -1454.359 381.939)
+*** WARNING 12: New portal was clipped away in CutNodePortals_r near (1864.467 -1475.764 408.000)
+*** WARNING 10: Reached occupant at (-4 -14 41), no filling performed.
 ---- WriteBSPFile ----
 Wrote RustyLabatory.bsp
-         2061 planes            41220
-        11174 vertexes         134088
-         5696 nodes            136704
-          964 texinfo           38560
-         9078 faces            181560
-        10700 clipnodes         85600
-         3479 leafs             97412
-         9616 marksurfaces      19232
-        36323 surfedges        145292
-        23456 edges             93824
-           18 textures          41596
+         2654 planes            53080
+        12569 vertexes         150828
+         6242 nodes            149808
+         1419 texinfo           56760
+         9987 faces            199740
+        11603 clipnodes         92824
+         3807 leafs            106596
+        10589 marksurfaces      21178
+        39951 surfedges        159804
+        26128 edges            104512
+          124 textures        2550360
               lightdata             0
               visdata               0
-              entdata           14069
+              entdata           22000
 
-0.637 seconds elapsed
-Peak memory usage: 46122220 (44.0M)
+0.680 seconds elapsed
+Peak memory usage: 49953922 (47.6M)

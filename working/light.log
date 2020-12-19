@@ -5,76 +5,76 @@ LoadBSPFile: 'RustyLabatory.bsp'
 BSP is version 29
 --- LoadEntities ---
 WARNING: entity at () (worldspawn) has empty key/value "targetname" ""
-WARNING: brush entity with mins (1921.00 -1025.00 -3) maxs (1951.00 -961.00 95.) (func_door) has empty key/value "message" ""
-WARNING: brush entity with mins (961.00 -1903.00 73.) maxs (975.00 -1897.00 87.) (func_button) has empty key/value "health" ""
-WARNING: brush entity with mins (1615.00 -1144.00 73) maxs (1629.00 -1138.00 87) (func_button) has empty key/value "health" ""
-WARNING: brush entity with mins (1615.00 -1144.00 73) maxs (1629.00 -1138.00 87) (func_button) has empty key/value "targetname" ""
+WARNING: brush entity with mins (1921.00 -1024.00 -3) maxs (1948.00 -960.00 95.) (func_door) has empty key/value "message" ""
+WARNING: brush entity with mins (1615.00 -1144.00 54) maxs (1629.00 -1138.00 68) (func_button) has empty key/value "health" ""
+WARNING: brush entity with mins (1615.00 -1144.00 54) maxs (1629.00 -1138.00 68) (func_button) has empty key/value "targetname" ""
 WARNING: brush entity with mins (1645.00 -1145.00 40) maxs (1659.00 -1139.00 42) (func_button) has empty key/value "health" ""
-WARNING: brush entity with mins (881.00 -1095.00 11.) maxs (975.00 -1065.00 17.) (trigger_multiple) has empty key/value "health" ""
+WARNING: brush entity with mins (881.00 -1103.00 11.) maxs (975.00 -1073.00 33.) (trigger_multiple) has empty key/value "health" ""
 WARNING: brush entity with mins (1958.00 -947.00 -1.) maxs (1972.00 -941.00 13.) (func_button) has empty key/value "targetname" ""
 WARNING: brush entity with mins (63.00 -1451.00 -103) maxs (157.00 -1421.00 -97) (trigger_once) has empty key/value "health" ""
 WARNING: brush entity with mins (63.00 -1451.00 -103) maxs (157.00 -1421.00 -97) (trigger_once) has empty key/value "sounds" ""
 WARNING: brush entity with mins (1567.00 -317.00 -33) maxs (1661.00 -287.00 -27) (trigger_multiple) has empty key/value "health" ""
 WARNING: brush entity with mins (1187.00 -47.00 15.0) maxs (1217.00 47.00 21.00) (trigger_multiple) has empty key/value "health" ""
-WARNING: brush entity with mins (1156.00 223.00 18.0) maxs (1166.00 289.00 144.) (func_door) has empty key/value "message" ""
-WARNING: brush entity with mins (1402.00 212.00 208.) maxs (1476.00 306.00 218.) (trigger_multiple) has empty key/value "health" ""
-WARNING: brush entity with mins (1919.00 316.00 210.) maxs (1931.00 378.00 336.) (func_door_secret) has targetname "Area 5 screat door" which is not targetted by anything.
-WARNING: brush entity with mins (2087.00 83.00 247.0) maxs (2101.00 89.00 261.0) (func_button) has empty key/value "health" ""
-WARNING: brush entity with mins (2087.00 83.00 247.0) maxs (2101.00 89.00 261.0) (func_button) has empty key/value "targetname" ""
+WARNING: brush entity with mins (1160.00 225.00 16.0) maxs (1170.00 287.00 143.) (func_door) has empty key/value "message" ""
+WARNING: brush entity with mins (1402.00 212.00 208.) maxs (1435.00 306.00 218.) (trigger_multiple) has empty key/value "health" ""
+WARNING: brush entity with mins (1920.00 315.00 221.) maxs (1927.00 377.00 336.) (func_door_secret) has targetname "Area 5 screat door" which is not targetted by anything.
+WARNING: brush entity with mins (2087.00 83.00 243.0) maxs (2101.00 89.00 257.0) (func_button) has empty key/value "health" ""
+WARNING: brush entity with mins (2087.00 83.00 243.0) maxs (2101.00 89.00 257.0) (func_button) has empty key/value "targetname" ""
 WARNING: brush entity with mins (605.00 1031.00 15.0) maxs (699.00 1061.00 21.0) (trigger_multiple) has empty key/value "health" ""
 WARNING: brush entity with mins (-149.00 397.00 15.0) maxs (-119.00 491.00 21.0) (trigger_multiple) has empty key/value "health" ""
 WARNING: brush entity with mins (-541.00 1029.00 57.) maxs (-527.00 1035.00 71.) (func_button) has empty key/value "health" ""
 WARNING: brush entity with mins (-541.00 1029.00 57.) maxs (-527.00 1035.00 71.) (func_button) has empty key/value "targetname" ""
-WARNING: brush entity with mins (332.00 365.00 67.00) maxs (346.00 371.00 81.00) (func_button) has empty key/value "targetname" ""
-WARNING: brush entity with mins (-84.00 1441.00 67.0) maxs (-70.00 1447.00 81.0) (func_button) has empty key/value "targetname" ""
+WARNING: brush entity with mins (319.00 365.00 50.00) maxs (333.00 371.00 64.00) (func_button) has empty key/value "targetname" ""
+WARNING: brush entity with mins (-84.00 1441.00 58.0) maxs (-70.00 1447.00 72.0) (func_button) has empty key/value "targetname" ""
 WARNING: entity at (1354 -1262 412) (monster_knight) has empty key/value "target" ""
 WARNING: entity at (1062 -1260 408) (monster_knight) has empty key/value "target" ""
 WARNING: entity at (1062 -1738 408) (monster_zombie) has empty key/value "target" ""
 WARNING: entity at (1638 -1740 410) (monster_zombie) has empty key/value "target" ""
-WARNING: entity at (1123 -1189 40) (monster_dog) has empty key/value "target" ""
-WARNING: entity at (1248 -1280 40) (monster_dog) has empty key/value "target" ""
-WARNING: brush entity with mins (1613.00 -1701.00 22) maxs (1675.00 -1693.00 30) (func_door) has empty key/value "target" ""
-WARNING: brush entity with mins (1613.00 -1701.00 22) maxs (1675.00 -1693.00 30) (func_door) has empty key/value "targetname" ""
+WARNING: entity at (1134 -1219 56) (monster_dog) has empty key/value "target" ""
+WARNING: entity at (1134 -1219 56) (monster_dog) has empty key/value "targetname" ""
+WARNING: entity at (1242 -1264 40) (monster_dog) has empty key/value "target" ""
 WARNING: brush entity with mins (1321.00 -1711.00 38) maxs (1383.00 -1703.00 45) (func_door) has empty key/value "target" ""
 WARNING: brush entity with mins (1321.00 -1711.00 38) maxs (1383.00 -1703.00 45) (func_door) has empty key/value "targetname" ""
-WARNING: entity at (1355 -1795 420) (monster_knight) has empty key/value "target" ""
-WARNING: entity at (1355 -1795 420) (monster_knight) has empty key/value "targetname" ""
-WARNING: brush entity with mins (1347.00 -1144.00 26) maxs (1361.00 -1138.00 27) (func_button) has empty key/value "health" ""
-WARNING: brush entity with mins (1347.00 -1144.00 26) maxs (1361.00 -1138.00 27) (func_button) has empty key/value "targetname" ""
-WARNING: brush entity with mins (1034.00 -1325.00 22) maxs (1096.00 -1317.00 29) (func_door) has empty key/value "target" ""
-WARNING: brush entity with mins (1034.00 -1325.00 22) maxs (1096.00 -1317.00 29) (func_door) has empty key/value "targetname" ""
+WARNING: entity at (1359 -1799 424) (monster_knight) has empty key/value "target" ""
+WARNING: entity at (1359 -1799 424) (monster_knight) has empty key/value "targetname" ""
+WARNING: brush entity with mins (1347.00 -1144.00 24) maxs (1361.00 -1138.00 26) (func_button) has empty key/value "health" ""
+WARNING: brush entity with mins (1347.00 -1144.00 24) maxs (1361.00 -1138.00 26) (func_button) has empty key/value "targetname" ""
 WARNING: entity at (667 -33 430) (monster_knight) has empty key/value "target" ""
 WARNING: entity at (667 -33 430) (monster_knight) has empty key/value "targetname" ""
-WARNING: brush entity with mins (89.00 -2251.00 -57.) maxs (103.00 -2245.00 -43) (func_button) has empty key/value "health" ""
+WARNING: brush entity with mins (90.00 -2251.00 -66.) maxs (104.00 -2245.00 -52) (func_button) has empty key/value "health" ""
 WARNING: entity at (1810 -774 2) (monster_dog) has empty key/value "targetname" ""
-WARNING: brush entity with mins (577.00 1430.00 63.0) maxs (583.00 1444.00 77.0) (func_button) has empty key/value "targetname" ""
+WARNING: brush entity with mins (564.00 1417.00 56.0) maxs (570.00 1431.00 70.0) (func_button) has empty key/value "targetname" ""
 WARNING: brush entity with mins (890.00 1090.00 17.0) maxs (932.00 1296.00 19.0) (trigger_once) has empty key/value "targetname" ""
-WARNING: brush entity with mins (890.00 1090.00 17.0) maxs (932.00 1296.00 19.0) (trigger_once) has unmatched "target" (Area 6 window relay)
-WARNING: entity at (886 1212 104) (trigger_relay) has targetname "Area 6 relay" which is not targetted by anything.
-141 entities read, 0 are lights.
+WARNING: entity at (1063 -1260 249) (monster_knight) has empty key/value "target" ""
+WARNING: entity at (2291 -1374 69) (light) has empty key/value "targetname" ""
+WARNING: entity at (2119 -1334 69) (light) has empty key/value "targetname" ""
+WARNING: brush entity with mins (1827.00 -1807.00 16) maxs (1915.00 -1717.00 76) (trigger_once) has empty key/value "" ""
+WARNING: brush entity with mins (1051.00 -1679.00 16) maxs (1139.00 -1665.00 76) (trigger_once) has empty key/value "" ""
+WARNING: brush entity with mins (1051.00 -1679.00 16) maxs (1139.00 -1665.00 76) (trigger_once) has empty key/value "targetname" ""
+238 entities read, 88 are lights.
 --- OptionsSummary ---
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
 	0 sky faces
-	8616 solid faces
+	9458 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
-SetupLights: 0 initial lights
-SetupLights: 0 after surface lights
-SetupLights: 0 after jittering
+SetupLights: 88 initial lights
+SetupLights: 88 after surface lights
+SetupLights: 88 after jittering
 --- EstimateLightVisibility ---
-
-Final count: 0 lights 0 suns in use.
+0....1....2....3....4....5....6....7....8....9....
+Final count: 88 lights 0 suns in use.
 --- LightWorld ---
 0....1....2....3....4....5....6....7....8....9....
 Lighting Completed.
 
-lightdatasize: 0
+lightdatasize: 231333
 0 switchable light styles (32 max)
 Writing RustyLabatory.bsp as BSP version 29
-0.381 seconds elapsed
+0.465 seconds elapsed
 
 stats:
-0.000000 lights tested, 0.000000 hits per sample point
+2.960863 lights tested, 1.150094 hits per sample point
 0.000000 bounce lights tested, 0.000000 hits per sample point
 0 empty lightmaps
