@@ -64,7 +64,7 @@ Wrote RustyLabatory.bsp
           124 textures        2550360
               lightdata             0
               visdata               0
-              entdata           22000
+              entdata           21994
 
-0.680 seconds elapsed
+0.768 seconds elapsed
 Peak memory usage: 49953922 (47.6M)

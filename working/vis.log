@@ -1,7 +1,7 @@
 ---- vis / ericw-tools v0.18.1 ----
 running with 12 threads
 testlevel = 4
-LoadBSPFile: 'RustyLabatory.bsp'
+LoadBSPFile: 'rustylaboratory.bsp'
 BSP is version 29
-LoadPortals: couldn't read RustyLabatory.prt
+LoadPortals: couldn't read rustylaboratory.prt
 No vising performed.

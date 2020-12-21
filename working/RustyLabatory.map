@@ -3474,7 +3474,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Stair"
-"_tb_id" "576"
+"_tb_id" "1"
 // brush 0
 {
 ( 1796 -1280 188 ) ( 1796 -1280 176 ) ( 1796 -1264 176 ) floor_ceiltile_ -16 -16 180 1 -1
@@ -3517,7 +3517,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Stair"
-"_tb_id" "577"
+"_tb_id" "2"
 // brush 0
 {
 ( 1860 -1312 16 ) ( 1860 -1312 28 ) ( 1860 -1328 28 ) floor_ceiltile_ 16 -16 0 1 1
@@ -3560,7 +3560,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Stair"
-"_tb_id" "578"
+"_tb_id" "3"
 // brush 0
 {
 ( 1860 -1248 64 ) ( 1860 -1248 76 ) ( 1860 -1264 76 ) floor_ceiltile_ 16 0 0 1 1
@@ -3603,7 +3603,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Stair"
-"_tb_id" "579"
+"_tb_id" "4"
 // brush 0
 {
 ( 1796 -1216 140 ) ( 1796 -1216 128 ) ( 1796 -1200 128 ) floor_ceiltile_ -16 0 180 1 -1
@@ -3646,7 +3646,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Hallway 1-6"
-"_tb_id" "580"
+"_tb_id" "5"
 // brush 0
 {
 ( 560 1056 16 ) ( 560 960 16 ) ( 560 960 -16 ) a_sfloor_b04 0 0 0 1 -1
@@ -3671,7 +3671,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "stair"
-"_tb_id" "581"
+"_tb_id" "6"
 // brush 0
 {
 ( 480 -960 -44 ) ( 480 -960 -32 ) ( 480 -976 -32 ) conc_panel02 16 -12 0 1 1
@@ -3714,7 +3714,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "stair"
-"_tb_id" "582"
+"_tb_id" "7"
 // brush 0
 {
 ( 64 -1088 -80 ) ( 64 -1088 -68 ) ( 64 -1104 -68 ) conc_panel02 16 16 0 1 1
@@ -3757,7 +3757,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Unnamed"
-"_tb_id" "583"
+"_tb_id" "8"
 // brush 0
 {
 ( 1920 592 378 ) ( 1920 592 390 ) ( 1920 80 390 ) stectile1quad_d -16 -10 0 1 1
@@ -4636,7 +4636,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Stair"
-"_tb_id" "584"
+"_tb_id" "9"
 // brush 0
 {
 ( 1792 -1728 236 ) ( 1792 -1728 224 ) ( 1792 -1712 224 ) floor_ceiltile_ -16 0 180 1 -1
@@ -5388,7 +5388,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "big door"
-"_tb_id" "585"
+"_tb_id" "10"
 // brush 0
 {
 ( 352 -80 144 ) ( 352 48 144 ) ( 352 48 176 ) tmet04 -16 16 270 1 1
@@ -5431,7 +5431,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "big door"
-"_tb_id" "586"
+"_tb_id" "11"
 // brush 0
 {
 ( 352 380 144 ) ( 352 508 144 ) ( 352 508 176 ) grill_floor5_s -16 92 270 1 1
@@ -5479,7 +5479,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "smalldoor"
-"_tb_id" "587"
+"_tb_id" "12"
 // brush 0
 {
 ( 480 -623 -16 ) ( 480 -623 16 ) ( 480 -655 16 ) tmet04 -17 16 180 -1 1
@@ -5522,7 +5522,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "big door"
-"_tb_id" "588"
+"_tb_id" "13"
 // brush 0
 {
 ( 864 -1104 144 ) ( 864 -1104 176 ) ( 864 -1136 176 ) steceilingplank 16 16 180 -1 1
@@ -5565,7 +5565,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "smalldoor"
-"_tb_id" "589"
+"_tb_id" "14"
 // brush 0
 {
 ( 880 -625 -15 ) ( 880 -625 17 ) ( 880 -657 17 ) tmet04 -15 15 180 -1 1
@@ -5608,7 +5608,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "smalldoor"
-"_tb_id" "590"
+"_tb_id" "15"
 // brush 0
 {
 ( 976 545 -15 ) ( 976 577 -15 ) ( 976 577 17 ) tmet04 -31 15 180 1 1
@@ -5651,7 +5651,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "smalldoor"
-"_tb_id" "591"
+"_tb_id" "16"
 // brush 0
 {
 ( 1152 304 -15 ) ( 1152 304 17 ) ( 1152 208 17 ) tmet04 -15 -80 90 -1 1
@@ -5694,7 +5694,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "smalldoor"
-"_tb_id" "592"
+"_tb_id" "17"
 // brush 0
 {
 ( 1569 -241 -63 ) ( 1569 -241 -31 ) ( 1569 -273 -31 ) stedoorframe2 -15 63 180 -1 1
@@ -5764,7 +5764,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "smalldoor"
-"_tb_id" "593"
+"_tb_id" "18"
 // brush 0
 {
 ( 1919.625 -945.375 -63 ) ( 1919.625 -945.375 -31 ) ( 1919.625 -1041.375 -31 ) trims2c 1 17.375 90 -1 1
@@ -5807,7 +5807,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "big door"
-"_tb_id" "594"
+"_tb_id" "19"
 // brush 0
 {
 ( 1148 -64 144 ) ( 1148 64 144 ) ( 1148 64 176 ) tmet04 -16 32 270 1 1
@@ -6266,7 +6266,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "smalldoor"
-"_tb_id" "595"
+"_tb_id" "20"
 // brush 0
 {
 ( 606 1054 -15 ) ( 606 1086 -15 ) ( 606 1086 17 ) tmet04 -2 15 180 1 1
@@ -6373,7 +6373,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "smalldoor"
-"_tb_id" "596"
+"_tb_id" "21"
 // brush 0
 {
 ( 533 1435 17 ) ( 533 1435 -15 ) ( 533 1531 -15 ) deldoorgutter -15 -5 270 1 1
@@ -6416,7 +6416,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "smalldoor"
-"_tb_id" "597"
+"_tb_id" "22"
 // brush 0
 {
 ( -125 1434 17 ) ( -125 1434 -15 ) ( -125 1530 -15 ) tmet04 -15 -6 270 1 1
@@ -6471,7 +6471,7 @@
 // entity 226
 {
 "classname" "trigger_once"
-"message" "A bookshelf under the clock seems different."
+"message" "Bookshelf under the clock seems weird."
 // brush 0
 {
 ( 1572 584 215 ) ( 1572 584 293 ) ( 1572 64 293 ) trigger -15 -7 0 1 1
@@ -6507,7 +6507,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "big door"
-"_tb_id" "598"
+"_tb_id" "23"
 // brush 0
 {
 ( -129 381 144 ) ( -129 509 144 ) ( -129 509 176 ) grill_floor5_s -16 93 270 1 1
